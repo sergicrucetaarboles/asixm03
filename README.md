@@ -7,3 +7,8 @@ First Header  | Second Header
 ------------- | -------------
 Proba 01 | Content Cell
 Content Cell  |  \| 
+
+Markup : <details>
+           <summary>Title 1</summary>
+           <p>Lorem ipsum</p>
+         </details>
