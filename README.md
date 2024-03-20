@@ -12,3 +12,7 @@ Markup : <details>
            <summary>**Title 1**</summary>
            <p>Lorem ipsum</p>
          </details>
+
+## Derechos de Autor
+
+© 2024 Bini Ferrer i Sergi Cruceta
